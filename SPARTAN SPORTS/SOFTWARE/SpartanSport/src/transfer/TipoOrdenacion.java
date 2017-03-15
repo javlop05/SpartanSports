@@ -1,0 +1,5 @@
+package transfer;
+
+public enum TipoOrdenacion {
+	NOMBRE_ABONO,DEPORTE,FECHA,RECEPTOR,EMISOR,ASUNTO,NOMBRE,PISTA,DNI, HORA, NINGUNO, ID;
+}
